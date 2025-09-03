@@ -1,4 +1,4 @@
-# Your Name Here
+# Raelene Crandall
 
 Welcome to the GitHub training workshop!  
 Please edit this file with your own details.
