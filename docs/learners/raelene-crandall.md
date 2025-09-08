@@ -1,5 +1,4 @@
-# Your Name Here
-
+# Rae Crandall
 Welcome to the GitHub training workshop!  
 Please edit this file with your own details.
 
@@ -11,10 +10,10 @@ Please edit this file with your own details.
 - **Email:** raecrandall@ufl.edu  
 
 ## Research Interests
-Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
+I am broadly interested in understanding the mechanisms by which fire and other disturbances affect plant population dynamics and shape patterns of plant diversity and community composition. My research primarily concentrates on ecosystems that burn frequently, such as open prairies and savannas.
 
 ## Fun Fact
-Share one fun fact about yourself!  
+I love studying plants, but I don't have a green thumb!  
 
 ---
 
